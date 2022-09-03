@@ -7,7 +7,5 @@
 파이썬 버전에 따라 문제가 생길 여지가 있으며
 저희는 python 3.9, windows10 64bit 환경에서 실행했습니다.
 
-https://github.com/herongherong/kDataEV_Group_1.git
-
 웹페이지의 경우 서버를 상시 열어둘 수 없어, 웹 호스팅 서비스에 업로드된 페이지를 링크합니다.
 https://bejewelled-biscuit-e949e7.netlify.app
