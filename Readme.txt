@@ -7,4 +7,4 @@ geopandas 라이브러리 설치 시 버전에 따른 문제가 있을 수 있�
 python 3.9, windows10 64bit 환경에서 실행했습니다.
 
 웹페이지의 경우 서버를 상시 열어둘 수 없어, 웹 호스팅 서비스에 업로드된 페이지를 링크합니다.
-https://bejewelled-biscuit-e949e7.netlify.app
+https://peppy-strudel-ee5353.netlify.app
